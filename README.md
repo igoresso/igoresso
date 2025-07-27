@@ -1,36 +1,33 @@
 # Hi there! 👋
 
-I'm an engineer currently finishing up my PhD in Engineering & IT. I'm passionate about web development and creating impactful and user-friendly digital solutions.
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?logo=svelte&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black) ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-%23CC0000?logo=rubyonrails&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white)  ![Vitest](https://img.shields.io/badge/Vitest-000000?logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-EE3C90?logo=playwright&logoColor=white)
 
-## About Me
+**Full-Stack Software Engineer | PhD**
 
-💻 **Front-End Developer**  
-Beyond my research, I have a strong passion for web development. I love bringing creative ideas to life online by crafting responsive and interactive web applications focusing on user experience. I specialize in HTML5, CSS3, and TypeScript, and I'm dedicated to optimizing website functionality and delivering efficient solutions.
+I’m a **Full‑Stack Software Engineer** with a fresh PhD in Engineering & IT, and I love turning big ideas into real‑world solutions. Whether it’s crafting pixel‑perfect UIs, architecting reliable back‑ends, or automating rock‑solid deployments, I’m all about clean code, thoughtful design, and getting things done.
 
-🔬 **PhD Candidate in MRI Engineering**  
-My research focuses on electromagnetic simulations, pulse design for parallel transmission, and data analysis. I've been innovating and fine-tuning MRI protocols to advance imaging techniques, contributing to the future of medical imaging. I've worked on advanced image processing pipelines (Python) deployed as Docker containers in production.
+## 🚀 What I Do
 
-🛠️ **Technical Skills**
-- **Languages:** HTML5, CSS3, TypeScript, Python, SQL
-- **Frameworks:** React, Svelte
-- **Tools & Platforms:** Gulp, Babel, Vite, WebAssembly, CI/CD
+- **Back‑end Development:** Node.js, Ruby on Rails
+- **Front‑end Magic:** Svelte, React, TypeScript, WebAssembly  
+- **DevOps & Deployment:** Docker, AWS, CI/CD with Buildkite / GitHub Actions  
+- **Quality & Testing:** Vitest, Playwright
 
-## Projects
+My PhD research dove deep into MRI engineering—electromagnetic simulations, pulse design, and data analysis. I built Python‑powered image‑processing pipelines that went straight into production, helping bridge the gap between research and real‑world impact.
 
-### [MR.VELOUS](https://mrvelous.app/)
-A TypeScript-based Progressive Web App (PWA) for medical image viewing. This project leverages WebAssembly for efficient image analysis and utilizes CI/CD pipelines for seamless deployment, showcasing my ability to integrate complex technologies into user-friendly applications.
+## ✨ Featured Project
 
-### [Enigma I Emulator](https://github.com/igoresso/enigma)
-An emulator that demonstrates my proficiency in manipulating the DOM and recreating complex functionalities using vanilla JavaScript and CSS preprocessors. This project highlights my skills in creating intricate simulations and interactive web experiences.
+**[MR.VELOUS](https://mrvelous.app/)**  
+A Progressive Web App for medical image viewing, built with TypeScript and WebAssembly. It’s fast, efficient, and backed by a modern CI/CD pipeline.
 
-## Interests
+## 🎨 Beyond Code
+I bring diverse engineering experience from CAD design to industrial control and optical measurement systems, plus I'm into 3D printing—it keeps my problem-solving skills sharp and creativity flowing.
 
-- **Web Development:** Crafting responsive and interactive web applications, improving user interfaces, and enhancing user experiences.
-- **3D Printing:** A hobby that keeps my creativity and problem-solving skills sharp.
+I'm excited about opportunities that allow me to blend my engineering expertise with my love for programming and web development. Whether it's enhancing user interfaces, building complex simulations, or contributing to impactful digital projects, I'm eager to jump in and make a difference.
 
-## Let's Connect
+Let's build something amazing together!
 
-I'm excited about opportunities that allow me to blend my engineering expertise with my love for programming and web development. Whether it's enhancing user interfaces, building complex simulations, or contributing to impactful digital projects, I'm eager to make a difference.
+## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/igor-tyshchenko)
-- [GitHub](https://github.com/igoresso)
+- **LinkedIn:** [linkedin.com/in/igor-tyshchenko](https://www.linkedin.com/in/igor-tyshchenko)
+- **GitHub:** [github.com/igoresso](https://github.com/igoresso)
