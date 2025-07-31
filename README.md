@@ -26,8 +26,3 @@ I bring diverse engineering experience from CAD design to industrial control and
 I'm excited about opportunities that allow me to blend my engineering expertise with my love for programming and web development. Whether it's enhancing user interfaces, building complex simulations, or contributing to impactful digital projects, I'm eager to jump in and make a difference.
 
 Let's build something amazing together!
-
-## 📫 Let’s Connect
-
-- **LinkedIn:** [linkedin.com/in/igor-tyshchenko](https://www.linkedin.com/in/igor-tyshchenko)
-- **GitHub:** [github.com/igoresso](https://github.com/igoresso)
