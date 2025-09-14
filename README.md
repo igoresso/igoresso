@@ -2,14 +2,14 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?logo=svelte&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black) ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-%23CC0000?logo=rubyonrails&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white)  ![Vitest](https://img.shields.io/badge/Vitest-000000?logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-EE3C90?logo=playwright&logoColor=white)
 
-**Full-Stack Software Engineer | PhD**
+**Software Engineer | PhD**
 
-I’m a **Full‑Stack Software Engineer** with a fresh PhD in Engineering & IT, and I love turning big ideas into real‑world solutions. Whether it’s crafting pixel‑perfect UIs, architecting reliable back‑ends, or automating rock‑solid deployments, I’m all about clean code, thoughtful design, and getting things done.
+I’m a **Software Engineer** with a PhD in Engineering & IT, and I love turning big ideas into real‑world solutions. Whether it’s crafting pixel‑perfect UIs, architecting reliable back‑ends, or automating rock‑solid deployments, I’m all about clean code, thoughtful design, and getting things done.
 
 ## 🚀 What I Do
 
 - **Back‑end Development:** Node.js, Ruby on Rails
-- **Front‑end Magic:** Svelte, React, TypeScript, WebAssembly  
+- **Front‑end Magic:** Svelte, React, TypeScript, WebAssembly
 - **DevOps & Deployment:** Docker, AWS, CI/CD with Buildkite / GitHub Actions  
 - **Quality & Testing:** Vitest, Playwright
 
