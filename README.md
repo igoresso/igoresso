@@ -8,7 +8,7 @@ I’m a **Software Engineer** with a PhD in Engineering & IT, and I love turning
 
 ## 🚀 What I Do
 
-- **Back‑end Development:** Node.js, Ruby on Rails
+- **Back‑end & Cloud Architecture:** Node.js, Ruby on Rails, AWS, Terraform
 - **Front‑end Magic:** Svelte, React, TypeScript, WebAssembly
 - **DevOps & Deployment:** Docker, AWS, CI/CD with Buildkite / GitHub Actions  
 - **Quality & Testing:** Vitest, Playwright
@@ -16,6 +16,9 @@ I’m a **Software Engineer** with a PhD in Engineering & IT, and I love turning
 My PhD research dove deep into MRI engineering—electromagnetic simulations, pulse design, and data analysis. I built Python‑powered image‑processing pipelines that went straight into production, helping bridge the gap between research and real‑world impact.
 
 ## ✨ Featured Project
+
+**[Agendica](https://agendica.com/)**
+A full‑stack event management platform for conferences and meetups, covering the full event lifecycle: registration, speaker management, agenda, call‑for‑abstracts, peer reviews, and badges
 
 **[MR.VELOUS](https://mrvelous.app/)**  
 A Progressive Web App for medical image viewing, built with TypeScript and WebAssembly. It’s fast, efficient, and backed by a modern CI/CD pipeline.
